@@ -27,24 +27,36 @@
 
 ### 🛠️ Tools & Technologies
 
-**SOC / Security:**
-![SIEM](https://img.shields.io/badge/-SIEM-black?style=flat-square)
-![Suricata](https://img.shields.io/badge/-Suricata%20IDS-000000?style=flat-square&logo=suricata&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![OpenVAS](https://img.shields.io/badge/-OpenVAS-4CAF50?style=flat-square)
-
-**Network & Firewalls:**
-![Fortinet](https://img.shields.io/badge/-Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white)
-![Sophos](https://img.shields.io/badge/-Sophos-00205B?style=flat-square)
-![pfSense](https://img.shields.io/badge/-pfSense-212121?style=flat-square)
-![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
-**Systems & Scripting:**
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<table>
+<tr>
+<td valign="top"><b>SOC / Security</b></td>
+<td>
+<img src="https://img.shields.io/badge/SIEM-000000?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/Suricata%20IDS-000000?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/OpenVAS-4CAF50?style=for-the-badge" height="28"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Network & Firewalls</b></td>
+<td>
+<img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Sophos-00205B?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="28"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Systems & Scripting</b></td>
+<td>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -78,8 +90,11 @@ Multi-layer network defense system combining:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahhmedmostafaa&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=ahhmedmostafaa&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahhmedmostafaa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahhmedmostafaa&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
