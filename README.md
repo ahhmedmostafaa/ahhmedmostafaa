@@ -8,14 +8,13 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmedmostafahussein"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:a7medmostafa7777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-informational?style=for-the-badge"/>
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🎓 Bachelor of Computer Science student at **Modern Academy, Maadi** (2022 – 2026)
+- 🎓 Bachelor of Computer Science student
 - 🛡️ Specializing in **SOC Analysis**, **Incident Response**, **Vulnerability Assessment**, and **Network Defense**
 - 🧪 Hands-on experience configuring **Fortinet** and **Sophos** enterprise firewalls (policies, NAT, VPN tunnels)
 - 🌐 Solid networking foundation: VLANs, OSPF, static routing (CCNA training background)
@@ -68,22 +67,6 @@ Multi-layer network defense system combining:
 - 🚨 **Suricata IDS** for real-time traffic monitoring
 - 📊 **Zeek** for network security monitoring
 - 🔥 **Automated pfSense blocking** — 100% detection rate with 872ms mean time-to-mitigate (MTTM)
-
----
-
-### 📜 Certifications
-
-| Certificate | Issuer | Date |
-|---|---|---|
-| Advanced Endpoint Investigations Learning Path | TryHackMe | Apr 2026 |
-| SOC Level 2 Learning Path | TryHackMe | Apr 2026 |
-| SOC Level 1 Learning Path | TryHackMe | Apr 2026 |
-| Cyber Threat Management | Cisco Networking Academy | Oct 2025 |
-| Endpoint Security | Cisco Networking Academy | Oct 2025 |
-| Network Defense | Cisco Networking Academy | Oct 2025 |
-| Ethical Hacker | Cisco Networking Academy | Oct 2025 |
-| Ethical Hacking with Open Source Tools | IBM / Coursera | Oct 2025 |
-| Google Cybersecurity | Google / Coursera | Sep 2025 |
 
 ---
 
