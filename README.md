@@ -13,7 +13,6 @@
 ---
 
 ### 🧑‍💻 About Me
-
 - 🎓 Bachelor of Computer Science student
 - 🛡️ Specializing in **SOC Analysis**, **Incident Response**, **Vulnerability Assessment**, and **Network Defense**
 - 🧪 Hands-on experience configuring **Fortinet** and **Sophos** enterprise firewalls (policies, NAT, VPN tunnels)
@@ -67,6 +66,74 @@ Multi-layer network defense system combining:
 - 🚨 **Suricata IDS** for real-time traffic monitoring
 - 📊 **Zeek** for network security monitoring
 - 🔥 **Automated pfSense blocking** — 100% detection rate with 872ms mean time-to-mitigate (MTTM)
+
+---
+
+### 📂 All Projects
+
+<details>
+<summary><b>🤖 AI, Machine Learning & NLP</b></summary>
+<br>
+
+| Project | Description |
+|---|---|
+| [ML-California-Housing-Comparison](https://github.com/ahhmedmostafaa/ML-California-Housing-Comparison) | 6 ML algorithms implemented from scratch and benchmarked against scikit-learn |
+| [AI-Shortest-Path-Finder](https://github.com/ahhmedmostafaa/AI-Shortest-Path-Finder) | UCS vs A* search comparison with interactive graph visualization |
+| [NLP-Text-Summarization](https://github.com/ahhmedmostafaa/NLP-Text-Summarization) | Extractive text summarization using TF-IDF on CNN/Daily Mail |
+| [Speech-Processing-Emotion-Transcription](https://github.com/ahhmedmostafaa/Speech-Processing-Emotion-Transcription) | Speech-to-text (Wav2Vec2) and emotion recognition (MFCC + SVM) |
+
+</details>
+
+<details>
+<summary><b>🧮 Data Structures & Algorithms</b></summary>
+<br>
+
+| Project | Description |
+|---|---|
+| [Algorithms-Analysis-Lab](https://github.com/ahhmedmostafaa/Algorithms-Analysis-Lab) | Sort/search algorithms with Big-O complexity analysis |
+| [Datastructures-Bank-Management](https://github.com/ahhmedmostafaa/Datastructures-Bank-Management) | Bank system: UML design + two linked-list implementations (OOP vs procedural) |
+| [Cpp-Math-Exercises](https://github.com/ahhmedmostafaa/Cpp-Math-Exercises) | Discrete math (logic, probability) and numerical interpolation methods |
+| [OS-CPU-Scheduling-Simulator](https://github.com/ahhmedmostafaa/OS-CPU-Scheduling-Simulator) | Priority scheduling simulator with Gantt chart visualization |
+
+</details>
+
+<details>
+<summary><b>💻 Applications & Software Engineering</b></summary>
+<br>
+
+| Project | Description |
+|---|---|
+| [Banking-App-Flutter](https://github.com/ahhmedmostafaa/Banking-App-Flutter) | Cross-platform mobile banking UI built with Flutter |
+| [Airline-Reservation-System](https://github.com/ahhmedmostafaa/Airline-Reservation-System) | Java Swing + SQL airline reservation system |
+| [Bank-App-System-Design](https://github.com/ahhmedmostafaa/Bank-App-System-Design) | Full UML system analysis & design case study |
+| [Image-Processing-WinForms](https://github.com/ahhmedmostafaa/Image-Processing-WinForms) | C# desktop app for pixel-level image processing |
+| [Bird-Game-Unity](https://github.com/ahhmedmostafaa/Bird-Game-Unity) | Flappy Bird-style 2D game built in Unity/C# |
+| [Multimedia-Signal-Huffman-Fourier](https://github.com/ahhmedmostafaa/Multimedia-Signal-Huffman-Fourier) | Huffman compression and Fourier transform signal analysis |
+
+</details>
+
+<details>
+<summary><b>🔌 Embedded Systems & IoT</b></summary>
+<br>
+
+| Project | Description |
+|---|---|
+| [Embedded-Arduino-Project](https://github.com/ahhmedmostafaa/Embedded-Arduino-Project) | Smart Door system: ultrasonic sensing, servo control, WiFi via ESP8266 |
+| [IoT-Wifi-RC-Car](https://github.com/ahhmedmostafaa/IoT-Wifi-RC-Car) | WiFi/Bluetooth controlled car with obstacle sensing |
+
+</details>
+
+<details>
+<summary><b>🌐 Networking</b></summary>
+<br>
+
+| Project | Description |
+|---|---|
+| [Network-Multi-Protocol-Routing](https://github.com/ahhmedmostafaa/Network-Multi-Protocol-Routing) | OSPF, RIP & EIGRP integration with route redistribution and Frame Relay |
+| [Wireless-Campus-Network](https://github.com/ahhmedmostafaa/Wireless-Campus-Network) | Multi-floor wireless network design with WPA2 and per-floor SSIDs |
+| [Campus-Network-EtherChannel](https://github.com/ahhmedmostafaa/Campus-Network-EtherChannel) | Departmental VLANs with redundant EtherChannel links and port security |
+
+</details>
 
 ---
 
