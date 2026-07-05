@@ -137,8 +137,6 @@ Multi-layer network defense system combining:
 
 ---
 
----
-
 <p align="center">
   <i>"Defending networks, one packet at a time."</i>
 </p>
