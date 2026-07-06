@@ -90,7 +90,7 @@ Multi-layer network defense system combining:
 | Project | Description |
 |---|---|
 | [ML-California-Housing-Comparison](https://github.com/ahhmedmostafaa/ML-California-Housing-Comparison) | 6 ML algorithms implemented from scratch and benchmarked against scikit-learn |
-| [AI-Shortest-Path-Finder](https://github.com/ahhmedmostafaa/AI-Shortest-Path-Finder) | UCS vs A* search comparison with interactive graph visualization |
+| [Shortest-Path-Finder](https://github.com/ahhmedmostafaa/Shortest-Path-Finder) | UCS vs A* search comparison with interactive graph visualization |
 | [NLP-Text-Summarization](https://github.com/ahhmedmostafaa/NLP-Text-Summarization) | Extractive text summarization using TF-IDF on CNN/Daily Mail |
 | [Speech-Processing-Emotion-Transcription](https://github.com/ahhmedmostafaa/Speech-Processing-Emotion-Transcription) | Speech-to-text (Wav2Vec2) and emotion recognition (MFCC + SVM) |
 
@@ -127,10 +127,10 @@ Multi-layer network defense system combining:
 
 | Project | Description |
 |---|---|
-| [Algorithms-Analysis-Lab](https://github.com/ahhmedmostafaa/Algorithms-Analysis-Lab) | Sort/search algorithms with Big-O complexity analysis |
 | [Datastructures-Bank-Management](https://github.com/ahhmedmostafaa/Datastructures-Bank-Management) | Bank system: UML design + two linked-list implementations (OOP vs procedural) |
-| [Cpp-Math-Exercises](https://github.com/ahhmedmostafaa/Cpp-Math-Exercises) | Discrete math (logic, probability) and numerical interpolation methods |
+| [Algorithms-Analysis-Lab](https://github.com/ahhmedmostafaa/Algorithms-Analysis-Lab) | Sort/search algorithms with Big-O complexity analysis |
 | [OS-CPU-Scheduling-Simulator](https://github.com/ahhmedmostafaa/OS-CPU-Scheduling-Simulator) | Priority scheduling simulator with Gantt chart visualization |
+| [Cpp-Math-Exercises](https://github.com/ahhmedmostafaa/Cpp-Math-Exercises) | Discrete math (logic, probability) and numerical interpolation methods |
 | [Multimedia-Signal-Huffman-Fourier](https://github.com/ahhmedmostafaa/Multimedia-Signal-Huffman-Fourier) | Huffman compression and Fourier transform signal analysis |
 
 </details>
