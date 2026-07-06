@@ -72,6 +72,18 @@ Multi-layer network defense system combining:
 ### 📂 All Projects
 
 <details>
+<summary><b>🌐 Networking</b></summary>
+<br>
+
+| Project | Description |
+|---|---|
+| [Network-Multi-Protocol-Routing](https://github.com/ahhmedmostafaa/Network-Multi-Protocol-Routing) | OSPF, RIP & EIGRP integration with route redistribution and Frame Relay |
+| [Wireless-Campus-Network](https://github.com/ahhmedmostafaa/Wireless-Campus-Network) | Multi-floor wireless network design with WPA2 and per-floor SSIDs |
+| [Campus-Network-EtherChannel](https://github.com/ahhmedmostafaa/Campus-Network-EtherChannel) | Departmental VLANs with redundant EtherChannel links and port security |
+
+</details>
+
+<details>
 <summary><b>🤖 AI, Machine Learning & NLP</b></summary>
 <br>
 
@@ -85,15 +97,13 @@ Multi-layer network defense system combining:
 </details>
 
 <details>
-<summary><b>🧮 Data Structures & Algorithms</b></summary>
+<summary><b>🔌 Embedded Systems & IoT</b></summary>
 <br>
 
 | Project | Description |
 |---|---|
-| [Algorithms-Analysis-Lab](https://github.com/ahhmedmostafaa/Algorithms-Analysis-Lab) | Sort/search algorithms with Big-O complexity analysis |
-| [Datastructures-Bank-Management](https://github.com/ahhmedmostafaa/Datastructures-Bank-Management) | Bank system: UML design + two linked-list implementations (OOP vs procedural) |
-| [Cpp-Math-Exercises](https://github.com/ahhmedmostafaa/Cpp-Math-Exercises) | Discrete math (logic, probability) and numerical interpolation methods |
-| [OS-CPU-Scheduling-Simulator](https://github.com/ahhmedmostafaa/OS-CPU-Scheduling-Simulator) | Priority scheduling simulator with Gantt chart visualization |
+| [Embedded-Arduino-Project](https://github.com/ahhmedmostafaa/Embedded-Arduino-Project) | Smart Door system: ultrasonic sensing, servo control, WiFi via ESP8266 |
+| [IoT-Wifi-RC-Car](https://github.com/ahhmedmostafaa/IoT-Wifi-RC-Car) | WiFi/Bluetooth controlled car with obstacle sensing |
 
 </details>
 
@@ -113,25 +123,15 @@ Multi-layer network defense system combining:
 </details>
 
 <details>
-<summary><b>🔌 Embedded Systems & IoT</b></summary>
+<summary><b>🧮 Data Structures & Algorithms</b></summary>
 <br>
 
 | Project | Description |
 |---|---|
-| [Embedded-Arduino-Project](https://github.com/ahhmedmostafaa/Embedded-Arduino-Project) | Smart Door system: ultrasonic sensing, servo control, WiFi via ESP8266 |
-| [IoT-Wifi-RC-Car](https://github.com/ahhmedmostafaa/IoT-Wifi-RC-Car) | WiFi/Bluetooth controlled car with obstacle sensing |
-
-</details>
-
-<details>
-<summary><b>🌐 Networking</b></summary>
-<br>
-
-| Project | Description |
-|---|---|
-| [Network-Multi-Protocol-Routing](https://github.com/ahhmedmostafaa/Network-Multi-Protocol-Routing) | OSPF, RIP & EIGRP integration with route redistribution and Frame Relay |
-| [Wireless-Campus-Network](https://github.com/ahhmedmostafaa/Wireless-Campus-Network) | Multi-floor wireless network design with WPA2 and per-floor SSIDs |
-| [Campus-Network-EtherChannel](https://github.com/ahhmedmostafaa/Campus-Network-EtherChannel) | Departmental VLANs with redundant EtherChannel links and port security |
+| [Algorithms-Analysis-Lab](https://github.com/ahhmedmostafaa/Algorithms-Analysis-Lab) | Sort/search algorithms with Big-O complexity analysis |
+| [Datastructures-Bank-Management](https://github.com/ahhmedmostafaa/Datastructures-Bank-Management) | Bank system: UML design + two linked-list implementations (OOP vs procedural) |
+| [Cpp-Math-Exercises](https://github.com/ahhmedmostafaa/Cpp-Math-Exercises) | Discrete math (logic, probability) and numerical interpolation methods |
+| [OS-CPU-Scheduling-Simulator](https://github.com/ahhmedmostafaa/OS-CPU-Scheduling-Simulator) | Priority scheduling simulator with Gantt chart visualization |
 
 </details>
 
