@@ -118,7 +118,6 @@ Multi-layer network defense system combining:
 | [Bank-App-System-Design](https://github.com/ahhmedmostafaa/Bank-App-System-Design) | Full UML system analysis & design case study |
 | [Image-Processing-WinForms](https://github.com/ahhmedmostafaa/Image-Processing-WinForms) | C# desktop app for pixel-level image processing |
 | [Bird-Game-Unity](https://github.com/ahhmedmostafaa/Bird-Game-Unity) | Flappy Bird-style 2D game built in Unity/C# |
-| [Multimedia-Signal-Huffman-Fourier](https://github.com/ahhmedmostafaa/Multimedia-Signal-Huffman-Fourier) | Huffman compression and Fourier transform signal analysis |
 
 </details>
 
@@ -132,6 +131,7 @@ Multi-layer network defense system combining:
 | [Datastructures-Bank-Management](https://github.com/ahhmedmostafaa/Datastructures-Bank-Management) | Bank system: UML design + two linked-list implementations (OOP vs procedural) |
 | [Cpp-Math-Exercises](https://github.com/ahhmedmostafaa/Cpp-Math-Exercises) | Discrete math (logic, probability) and numerical interpolation methods |
 | [OS-CPU-Scheduling-Simulator](https://github.com/ahhmedmostafaa/OS-CPU-Scheduling-Simulator) | Priority scheduling simulator with Gantt chart visualization |
+| [Multimedia-Signal-Huffman-Fourier](https://github.com/ahhmedmostafaa/Multimedia-Signal-Huffman-Fourier) | Huffman compression and Fourier transform signal analysis |
 
 </details>
 
